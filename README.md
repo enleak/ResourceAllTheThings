@@ -22,6 +22,7 @@
 [BugBountyHunter](https://www.bugbountyhunter.com/)
 [PortSwigger](https://portswigger.net/web-security)
 [TryHackMe](https://tryhackme.com/module/web-hacking-1)
+[OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
 |Networking|
 |----------|
