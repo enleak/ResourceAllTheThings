@@ -1,7 +1,7 @@
 # *Personal Resources:*
 
-|Linux|Description|
-|-----|-----------|
+|Linux|
+|-----|
 [OverTheWire Bandit](https://overthewire.org/wargames/bandit/)|Learn basic linux commands in a level based game|
 [TryHackMe Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)|TryHackMe is an online platform that teaches cyber security through short, gamified real-world labs. We have content for both complete beginners and seasoned hackers, encorporating guides and challenges to cater for different learning styles.|
 [Linux Journey](https://linuxjourney.com/)
