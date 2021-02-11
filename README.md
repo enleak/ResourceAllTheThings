@@ -6,6 +6,11 @@ Linux:
 -[TryHackMe Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
 -[Linux Journey](https://linuxjourney.com/)
 -[Practical Ethical Hacking; The Complete Course, By Heath Adams](https://www.udemy.com/course/practical-ethical-hacking/learn/lecture/17084870#content)
+-[OlivierLaflamme Update Cheatsheet_LinuxPentest](https://github.com/OlivierLaflamme/Cheatsheet-God/blob/master/Cheatsheet_LinuxPentest.txt)
+
+Linux PrivEsc:
+-[TryHackMe LinuxPrivEsc](https://tryhackme.com/room/linuxprivesc)
+-[IgniteTechnologies Github](https://github.com/Ignitetechnologies/Privilege-Escalation)
 
 Web Application Pentesting:
 -[Bugcrowd](https://www.bugcrowd.com/hackers/bugcrowd-university/)
