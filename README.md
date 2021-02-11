@@ -1,4 +1,4 @@
-# *Personal Resources*
+# *Personal Resources:*
 
 |Linux|Description|
 |-----|-----------|
