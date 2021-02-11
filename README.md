@@ -1,5 +1,5 @@
 # Resources
-Personal resources;
+*Personal Resources:*
 
 |Linux|Description|
 |-----|-----------|
