@@ -19,7 +19,7 @@
 |-------------|
 [Fuzz Security Windows Privilege Escalation Fundamentals](https://www.fuzzysecurity.com/tutorials/16.html)
 [TryHackMe Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
-[]()
+[TryHackMe Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
 
 |Web Application Pentesting:|
 |--------------------------|
