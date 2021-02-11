@@ -10,7 +10,7 @@ Linux:
 
 Linux PrivEsc:
 -[TryHackMe LinuxPrivEsc](https://tryhackme.com/room/linuxprivesc)
--[IgniteTechnologies Github](https://github.com/Ignitetechnologies/Privilege-Escalation)
+-[IgniteTechnologies PrivEsc Github Repo](https://github.com/Ignitetechnologies/Privilege-Escalation)
 
 Web Application Pentesting:
 -[Bugcrowd](https://www.bugcrowd.com/hackers/bugcrowd-university/)
