@@ -16,5 +16,5 @@ Web Application Pentesting:
 -[TryHackMe](https://tryhackme.com/module/web-hacking-1)
 
 Networking:
--[TryHackMe](https://tryhackme.com/module/intro-to-networking))
+-[TryHackMe](https://tryhackme.com/module/intro-to-networking)
 -[Professor Messer](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)
