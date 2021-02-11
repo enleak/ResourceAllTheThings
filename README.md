@@ -33,7 +33,7 @@
 [TryHackMe Web Hacking Fundamentals](https://tryhackme.com/module/web-hacking-1)
 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
-|Networking:|
+|Computer Networking:|
 |----------|
 [TryHackMe Network Fundamentals](https://tryhackme.com/module/intro-to-networking)
 [Professor Messer Net+ Study Guide](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)
