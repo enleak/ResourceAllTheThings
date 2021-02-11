@@ -7,6 +7,7 @@
 [Linux Journey](https://linuxjourney.com/)
 [Practical Ethical Hacking The Complete Course, By Heath Adams](https://www.udemy.com/course/practical-ethical-hacking/learn/lecture/17084870#content)
 [OlivierLaflamme Update Cheatsheet_LinuxPentest](https://github.com/OlivierLaflamme/Cheatsheet-God/blob/master/Cheatsheet_LinuxPentest.txt)
+[HacK The Box Academy; Linux Fundamentals](https://academy.hackthebox.eu/module/details/18)
 
 |Linux Privilege Escalation:|
 |-------------|
