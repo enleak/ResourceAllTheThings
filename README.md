@@ -37,3 +37,4 @@
 |----------|
 [TryHackMe Network Fundamentals](https://tryhackme.com/module/intro-to-networking)
 [Professor Messer Net+ Study Guide](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)
+[INE Penetration Testing Student](https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-student)
