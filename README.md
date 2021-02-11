@@ -13,6 +13,7 @@
 [TryHackMe LinuxPrivEsc](https://tryhackme.com/room/linuxprivesc)
 [IgniteTechnologies PrivEsc Github Repo](https://github.com/Ignitetechnologies/Privilege-Escalation)
 [INE Penetration Testing Student](https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-student)
+[g0tmi1k Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 
 |Web Application Pentesting:|
 |--------------------------|
