@@ -14,12 +14,14 @@
 [IgniteTechnologies PrivEsc Github Repo](https://github.com/Ignitetechnologies/Privilege-Escalation)
 [INE Penetration Testing Student](https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-student)
 [g0tmi1k; Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+[TCM Linux-Privilege-Escalation-Resources](https://github.com/TCM-Course-Resources/Linux-Privilege-Escalation-Resources)
 
 |Windows Privilege Escalation:|
 |-------------|
 [Fuzz Security Windows Privilege Escalation Fundamentals](https://www.fuzzysecurity.com/tutorials/16.html)
 [TryHackMe Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
 [TryHackMe Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
+[TCM Windows-Privilege-Escalation-Resources ](https://github.com/TCM-Course-Resources/Windows-Privilege-Escalation-Resources)
 
 |Web Application Pentesting:|
 |--------------------------|
