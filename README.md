@@ -25,5 +25,5 @@
 
 |Networking|
 |----------|
-[TryHackMe](https://tryhackme.com/module/intro-to-networking)
-[Professor Messer](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)
+[TryHackMe Network Fundamentals](https://tryhackme.com/module/intro-to-networking)
+[Professor Messer Net+](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)
