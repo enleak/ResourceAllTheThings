@@ -16,12 +16,12 @@
 
 |Web Application Pentesting:|
 |--------------------------|
-[Bugcrowd](https://www.bugcrowd.com/hackers/bugcrowd-university/)
+[Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
 [PentesterLab](https://pentesterlab.com/exercises?dir=desc&only=free&sort=published_at)
 [Hacker101](https://www.hacker101.com/start-here)
 [BugBountyHunter](https://www.bugbountyhunter.com/)
-[PortSwigger](https://portswigger.net/web-security)
-[TryHackMe](https://tryhackme.com/module/web-hacking-1)
+[PortSwigger Academy](https://portswigger.net/web-security)
+[TryHackMe Web Hacking Fundamentals](https://tryhackme.com/module/web-hacking-1)
 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
 |Networking:|
