@@ -2,7 +2,7 @@
 
 |Linux|Description|
 |-----|-----------|
-[OverTheWire Bandit](https://overthewire.org/wargames/bandit/)|Learn basic linux commands in a level based game approach|
+[OverTheWire Bandit](https://overthewire.org/wargames/bandit/)|Learn basic linux commands in a level based game|
 [TryHackMe Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)|TryHackMe is an online platform that teaches cyber security through short, gamified real-world labs. We have content for both complete beginners and seasoned hackers, encorporating guides and challenges to cater for different learning styles.|
 [Linux Journey](https://linuxjourney.com/)
 [Practical Ethical Hacking; The Complete Course, By Heath Adams](https://www.udemy.com/course/practical-ethical-hacking/learn/lecture/17084870#content)
