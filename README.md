@@ -17,6 +17,9 @@
 
 |Windows Privilege Escalation:|
 |-------------|
+[Fuzz Security Windows Privilege Escalation Fundamentals](https://www.fuzzysecurity.com/tutorials/16.html)
+[]()
+[]()
 
 |Web Application Pentesting:|
 |--------------------------|
