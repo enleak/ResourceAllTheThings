@@ -1,5 +1,5 @@
 # Resources
-Personal resources I've compiled throughout my journey.
+Personal resources;
 
 Linux:
 -[OverTheWire Bandit](https://overthewire.org/wargames/bandit/)
