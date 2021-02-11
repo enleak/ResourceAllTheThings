@@ -8,11 +8,11 @@
 [Practical Ethical Hacking The Complete Course, By Heath Adams](https://www.udemy.com/course/practical-ethical-hacking/learn/lecture/17084870#content)
 [OlivierLaflamme Update Cheatsheet_LinuxPentest](https://github.com/OlivierLaflamme/Cheatsheet-God/blob/master/Cheatsheet_LinuxPentest.txt)
 
-|Linux PrivEsc|
-|-------------|
-[TryHackMe LinuxPrivEsc](https://tryhackme.com/room/linuxprivesc)
-[IgniteTechnologies PrivEsc Github Repo](https://github.com/Ignitetechnologies/Privilege-Escalation)
-[INE Penetration Testing Student](https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-student)
+            |Linux PrivEsc|
+            |-------------|
+            [TryHackMe LinuxPrivEsc](https://tryhackme.com/room/linuxprivesc)
+            [IgniteTechnologies PrivEsc Github Repo](https://github.com/Ignitetechnologies/Privilege-Escalation)
+            [INE Penetration Testing Student](https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-student)
 
 |Web Application Pentesting|
 |--------------------------|
