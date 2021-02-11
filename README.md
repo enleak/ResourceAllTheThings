@@ -1,7 +1,8 @@
 # Resources
 Personal resources;
 
-Linux:
+|Linux|Description|
+|-----|-----------|
 -[OverTheWire Bandit](https://overthewire.org/wargames/bandit/)
 -[TryHackMe Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
 -[Linux Journey](https://linuxjourney.com/)
